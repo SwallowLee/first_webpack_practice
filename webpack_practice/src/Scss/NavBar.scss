@@ -1,0 +1,28 @@
+@import "colors";
+
+body, html{
+	background-color: #F2F2F2;
+}
+
+.head{
+	size: 50px;
+	font-weight: 700;
+}
+
+.active{
+	color: $white_font;
+}
+
+.nonactive{
+	color: $gray_font;
+}
+
+.navbar-style{
+	height: 70px;
+}
+
+.admin{
+	color: $white-font;
+	position: absolute;
+	right: 19px;
+}
